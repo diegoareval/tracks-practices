@@ -22,4 +22,8 @@ Ejecucion:
       - Clonar el repo
       - Ejecutar comando "yarn install" o "npm install" en la ruta del proyecto clonado /react-tracks-client
       - ejecutar "yarn start" o "npm start"
+      - crear cuenta cloudinary y agregar tu cloud_name en metodos de subida de audio en UpdateTrack.js y CreateTrack.js como storage
+      
+      
+      
       
