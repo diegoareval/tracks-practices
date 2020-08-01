@@ -1,6 +1,4 @@
 # FullStack Application (Django + Graphql vs React + Apollo Client)
-# Tecnologias:
-
 # Backend:
       - Django
       - Graphql (Graphene)
