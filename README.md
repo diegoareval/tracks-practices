@@ -1,9 +1,10 @@
-# tracks-practices
-Tecnologias:
-Backend:
+# FullStack Application (Django + Graphql vs React + Apollo Client)
+# Tecnologias:
+
+# Backend:
       - Django
       - Graphql (Graphene)
- Frontend: 
+ # Frontend: 
        -React JS
        - Material UI
        - Apollo Client
